@@ -1,0 +1,4 @@
+
+class InvalidRollException extends Exception {
+
+}
